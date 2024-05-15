@@ -1,0 +1,6 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/Slippertino/se
+[submodule "latex"]
+	path = latex
+	url = https://github.com/Slippertino/Diploma
